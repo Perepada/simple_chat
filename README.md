@@ -1,1 +1,1 @@
-# simple_chat
+# Hey! It's my simple chat!
